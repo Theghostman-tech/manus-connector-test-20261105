@@ -1,3 +1,6 @@
 # Test du connecteur GitHub
 
-Version initiale créée par Manus.
+Version modifiée avec succès par Manus.
+
+- Création du fichier : réussie
+- Modification du fichier : réussie
